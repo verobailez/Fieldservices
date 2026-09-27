@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fieldservicestaller.ar/sitemap.xml
